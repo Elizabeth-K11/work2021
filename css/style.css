@@ -36,9 +36,8 @@ opacity: 100%;
 color: white;
 margin-left: 60px;
 text-decoration: none;
-font-size: 25px;
+font-size: 20px;
 font-family: Arial;
-font-weight:bold;
 padding-top:80px ;
 padding-left: 7px;
 padding-right: 7px;
@@ -155,7 +154,7 @@ align-items: center;
 }
 
 .item_title{
-font-size: 24px;
+font-size: 20px;
 margin-bottom: 5%;
 text-align: center;
 }
@@ -241,7 +240,7 @@ height:300px;
 /* Заголовок слайда */
 .slideText {
     color: rgb(0, 0, 0);
-    font-size: 35px;
+    font-size: 24px;
     margin-bottom: 5%;
 }
 
@@ -310,7 +309,7 @@ margin-left: 5%;
 }
 
 .photo{
-width: 30%;
+width: 300px;
 }
 
 .one{
@@ -521,7 +520,7 @@ font-family: Arial;
 
 .distext_title{
     font-family: 'Raleway', sans-serif; 
-    font-size: 24px;
+    font-size: 20px;
     margin-bottom: 10px;
 }
 
@@ -594,7 +593,7 @@ margin-left: 3%;
 
 .s_title{
     font-family: 'Raleway', sans-serif; 
-    font-size: 25px;
+    font-size: 24px;
     margin-bottom: 10px;
 }
 
