@@ -72,7 +72,7 @@ font-size: 90px;
 
 .subtitle{
 font-family: 'Raleway', sans-serif; 
-font-size: 30px;
+font-size: 25px;
 }
 
 .container{
@@ -102,9 +102,8 @@ margin-bottom: 5%;
 
 .text_about{
 width: 50%;
-font-size: 30px;
+font-size: 20px;
 font-family: Arial;
-font-weight:bold;
 margin-bottom: 5%;
 text-align: justify;
 }
@@ -156,16 +155,15 @@ align-items: center;
 }
 
 .item_title{
-font-size: 30px;
+font-size: 24px;
 margin-bottom: 5%;
 text-align: center;
 }
 
 .item_text{
-font-size: 20px;   
+font-size: 16px;   
 text-align: justify;
 font-family: Arial;
-font-weight:bold;
 width: 80%;
 margin-bottom: 10%;
 
@@ -195,7 +193,7 @@ margin-bottom: 3%;
 
 /* Собственно сам слайдер */
 .slider{
-    max-width: 80%;
+    max-width: 90%;
     position: relative;
     margin: auto;
 }
@@ -249,8 +247,7 @@ height:300px;
 
 .slidecontent{
 font-family: Arial;
-font-weight:bold;
-font-size: 25px;
+font-size: 20px;
 }
 
 /* Кружочки */
@@ -520,12 +517,11 @@ color: black;
 display: flex;
 flex-direction: column;
 font-family: Arial;
-    font-weight:bold;
 }
 
 .distext_title{
     font-family: 'Raleway', sans-serif; 
-    font-size: 30px;
+    font-size: 24px;
     margin-bottom: 10px;
 }
 
@@ -594,13 +590,11 @@ height: 60px;
 .step_text{
 width: 80%;
 margin-left: 3%;
-font-family: Arial;
-font-weight:bold;
 }
 
 .s_title{
     font-family: 'Raleway', sans-serif; 
-    font-size: 30px;
+    font-size: 25px;
     margin-bottom: 10px;
 }
 
@@ -639,7 +633,6 @@ justify-content: space-between;
 width: 40%;
 font-size: 25px;
 font-family: Arial;
-font-weight:bold;
 display: flex;
 flex-direction: column;
 justify-content: space-around;
